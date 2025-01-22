@@ -1,10 +1,9 @@
-import 'package:carrot_flutter/src/widget/button/circle_image.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get_storage/get_storage.dart';
 
 import '../../controller/file_controller.dart';
 import '../../controller/user_controller.dart';
+import '../../widget/button/circle_image.dart';
 import '../../widget/form/label_textfield.dart';
 
 class MyEdit extends StatefulWidget {

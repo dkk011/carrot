@@ -1,9 +1,9 @@
-import 'package:carrot_flutter/src/widget/listitem/feed_list_item.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../../controller/feed_controller.dart';
 import '../../widget/button/category_button.dart';
+import '../../widget/listitem/feed_list_item.dart';
 import 'create.dart';
 
 class FeedIndex extends StatefulWidget {

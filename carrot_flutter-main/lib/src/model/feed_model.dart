@@ -1,6 +1,5 @@
-import 'package:carrot_flutter/src/model/user_model.dart';
-
 import '../shared/global.dart';
+import 'user_model.dart';
 
 class FeedModel {
   late int id;

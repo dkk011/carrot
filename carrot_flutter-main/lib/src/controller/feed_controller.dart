@@ -1,8 +1,8 @@
 import 'dart:math';
 
-import 'package:carrot_flutter/src/model/feed_model.dart';
 import 'package:get/get.dart';
 
+import '../model/feed_model.dart';
 import '../provider/feed_provider.dart';
 
 /// 피드 데이터를 관리하는 컨트롤러 클래스

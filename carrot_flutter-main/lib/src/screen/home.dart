@@ -1,7 +1,7 @@
-import 'package:carrot_flutter/src/controller/user_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
+import '../controller/user_controller.dart';
 import 'feed/index.dart';
 import 'my/mypage.dart';
 

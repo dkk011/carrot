@@ -3,7 +3,6 @@ import 'package:get_storage/get_storage.dart';
 import 'package:timeago/timeago.dart' as timeago;
 
 import 'src/app.dart';
-import 'src/shared/global.dart';
 
 void main() async {
   // GetStorage 초기화
